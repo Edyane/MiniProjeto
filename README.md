@@ -1,7 +1,7 @@
 # MiniProjeto de OO
 
 O MiniProjeto consiste na entrega de um software de "Estudo para Concurso" com as seguintes funcionalidades: 
-* CRUD de questão de concurso;
+* CRUD de questões de concurso;
 * Listagem de todas as questões cadastradas;
 * Busca por questões de uma determinada matéria (português, direito constitucional, etc);
 
